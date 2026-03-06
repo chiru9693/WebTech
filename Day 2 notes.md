@@ -79,14 +79,14 @@ Benefits
 Spring MVC is used to build web applications and REST APIs.
 
 MVC Architecture
-
+```
 Layer| Responsibility
 Model| Data and business logic
 View| UI
 Controller| Handles requests
-
+```
 Flow of Spring MVC
-
+```
 Client Request
      ↓
 Controller
@@ -96,7 +96,7 @@ Service Layer
 DAO / Repository
      ↓
 Database
-
+```
 ---
 
 5. Spring Boot Architecture
