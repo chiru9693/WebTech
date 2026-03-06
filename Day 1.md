@@ -1,4 +1,4 @@
-# WebTech / Spring Boot Learning
+# Spring Boot Learning
 
 ## Day 1 – Environment Setup & First Spring Boot Project
 
