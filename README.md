@@ -1,4 +1,6 @@
-# Spring Boot Learning Progress
+# WebTech Springboot Practice 
+
+## Spring Boot Learning Progress
 
 | Day    | Topic             | Description                                                                                                                        |
 | ------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
